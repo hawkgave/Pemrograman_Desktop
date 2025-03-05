@@ -1,0 +1,32 @@
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder\File Finder\obj\Debug\net8.0-windows\File_Finder.Form1.resources
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder\File Finder\obj\Debug\net8.0-windows\File Finder.vbproj.GenerateResource.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder\File Finder\obj\Debug\net8.0-windows\File Finder.GeneratedMSBuildEditorConfig.editorconfig
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder\File Finder\obj\Debug\net8.0-windows\File Finder.AssemblyInfoInputs.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder\File Finder\obj\Debug\net8.0-windows\File Finder.AssemblyInfo.vb
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder\File Finder\obj\Debug\net8.0-windows\File Finder.vbproj.CoreCompileInputs.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder\File Finder\bin\Debug\net8.0-windows\File Finder.exe
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder\File Finder\bin\Debug\net8.0-windows\File Finder.deps.json
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder\File Finder\bin\Debug\net8.0-windows\File Finder.runtimeconfig.json
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder\File Finder\bin\Debug\net8.0-windows\File Finder.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder\File Finder\bin\Debug\net8.0-windows\File Finder.pdb
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder\File Finder\obj\Debug\net8.0-windows\File Finder.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder\File Finder\obj\Debug\net8.0-windows\refint\File Finder.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder\File Finder\obj\Debug\net8.0-windows\File Finder.pdb
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder\File Finder\obj\Debug\net8.0-windows\File Finder.genruntimeconfig.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder\File Finder\obj\Debug\net8.0-windows\ref\File Finder.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder 2\File Finder\bin\Debug\net8.0-windows\File Finder.exe
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder 2\File Finder\bin\Debug\net8.0-windows\File Finder.deps.json
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder 2\File Finder\bin\Debug\net8.0-windows\File Finder.runtimeconfig.json
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder 2\File Finder\bin\Debug\net8.0-windows\File Finder.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder 2\File Finder\bin\Debug\net8.0-windows\File Finder.pdb
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder 2\File Finder\obj\Debug\net8.0-windows\File_Finder.Form1.resources
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder 2\File Finder\obj\Debug\net8.0-windows\File Finder.vbproj.GenerateResource.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder 2\File Finder\obj\Debug\net8.0-windows\File Finder.GeneratedMSBuildEditorConfig.editorconfig
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder 2\File Finder\obj\Debug\net8.0-windows\File Finder.AssemblyInfoInputs.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder 2\File Finder\obj\Debug\net8.0-windows\File Finder.AssemblyInfo.vb
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder 2\File Finder\obj\Debug\net8.0-windows\File Finder.vbproj.CoreCompileInputs.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder 2\File Finder\obj\Debug\net8.0-windows\File Finder.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder 2\File Finder\obj\Debug\net8.0-windows\refint\File Finder.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder 2\File Finder\obj\Debug\net8.0-windows\File Finder.pdb
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder 2\File Finder\obj\Debug\net8.0-windows\File Finder.genruntimeconfig.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 5\File Finder 2\File Finder\obj\Debug\net8.0-windows\ref\File Finder.dll
