@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SI Parkir/1.0.0": {
+        "runtime": {
+          "SI Parkir.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SI Parkir/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

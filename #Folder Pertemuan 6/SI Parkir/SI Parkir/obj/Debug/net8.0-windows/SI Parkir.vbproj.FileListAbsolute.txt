@@ -1,0 +1,32 @@
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Project Kelompok 2\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI_Parkir.Login.resources
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Project Kelompok 2\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI_Parkir.UbahProfil.resources
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Project Kelompok 2\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI_Parkir.Langganan.resources
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Project Kelompok 2\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI_Parkir.FormUtama.resources
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Project Kelompok 2\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI_Parkir.Form5.resources
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Project Kelompok 2\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI Parkir.vbproj.GenerateResource.cache
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Project Kelompok 2\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI Parkir.GeneratedMSBuildEditorConfig.editorconfig
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Project Kelompok 2\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI Parkir.AssemblyInfoInputs.cache
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Project Kelompok 2\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI Parkir.AssemblyInfo.vb
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Project Kelompok 2\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI Parkir.vbproj.CoreCompileInputs.cache
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Project Kelompok 2\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI Parkir.sourcelink.json
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Project Kelompok 2\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI_Parkir.Form4.resources
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 6\Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI_Parkir.UbahProfil.resources
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 6\Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI_Parkir.Langganan.resources
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 6\Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI_Parkir.Form4.resources
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 6\Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI_Parkir.Form5.resources
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 6\Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI Parkir.vbproj.GenerateResource.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 6\Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI Parkir.GeneratedMSBuildEditorConfig.editorconfig
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 6\Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI Parkir.AssemblyInfoInputs.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 6\Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI Parkir.AssemblyInfo.vb
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 6\Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI Parkir.vbproj.CoreCompileInputs.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 6\Pertemuan 6\SI Parkir\SI Parkir\bin\Debug\net8.0-windows\SI Parkir.exe
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 6\Pertemuan 6\SI Parkir\SI Parkir\bin\Debug\net8.0-windows\SI Parkir.deps.json
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 6\Pertemuan 6\SI Parkir\SI Parkir\bin\Debug\net8.0-windows\SI Parkir.runtimeconfig.json
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 6\Pertemuan 6\SI Parkir\SI Parkir\bin\Debug\net8.0-windows\SI Parkir.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 6\Pertemuan 6\SI Parkir\SI Parkir\bin\Debug\net8.0-windows\SI Parkir.pdb
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 6\Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI Parkir.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 6\Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\refint\SI Parkir.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 6\Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI Parkir.pdb
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 6\Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI Parkir.genruntimeconfig.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 6\Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\ref\SI Parkir.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 6\Pertemuan 6\SI Parkir\SI Parkir\obj\Debug\net8.0-windows\SI_Parkir.Form1.resources
