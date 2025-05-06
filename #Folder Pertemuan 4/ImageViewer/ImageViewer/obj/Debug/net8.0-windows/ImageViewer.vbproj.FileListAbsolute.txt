@@ -17,3 +17,13 @@ D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 4\ImageViewer\ImageView
 D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 4\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\ImageViewer.pdb
 D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 4\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\ImageViewer.genruntimeconfig.cache
 D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 4\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\ref\ImageViewer.dll
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 4\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\ImageViewer.Form1.resources
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 4\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\ImageViewer.vbproj.GenerateResource.cache
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 4\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\ImageViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 4\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\ImageViewer.AssemblyInfoInputs.cache
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 4\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\ImageViewer.AssemblyInfo.vb
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 4\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\ImageViewer.vbproj.CoreCompileInputs.cache
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 4\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\ImageViewer.sourcelink.json
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 4\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\ImageViewer.dll
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 4\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\refint\ImageViewer.dll
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 4\ImageViewer\ImageViewer\obj\Debug\net8.0-windows\ImageViewer.pdb

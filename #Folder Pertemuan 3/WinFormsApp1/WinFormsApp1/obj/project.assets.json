@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\kuliah kuliah\\SEMESTER 6\\Prog. Desktop\\Pertemuan 3\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
+      "projectUniqueName": "C:\\kuliah kuliah\\SEMESTER 6\\untuk repo uts\\Pemrograman_Desktop\\#Folder Pertemuan 3\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\kuliah kuliah\\SEMESTER 6\\Prog. Desktop\\Pertemuan 3\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
+      "projectPath": "C:\\kuliah kuliah\\SEMESTER 6\\untuk repo uts\\Pemrograman_Desktop\\#Folder Pertemuan 3\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\kuliah kuliah\\SEMESTER 6\\Prog. Desktop\\Pertemuan 3\\WinFormsApp1\\WinFormsApp1\\obj\\",
+      "outputPath": "C:\\kuliah kuliah\\SEMESTER 6\\untuk repo uts\\Pemrograman_Desktop\\#Folder Pertemuan 3\\WinFormsApp1\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,7 +51,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -75,7 +75,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("ParkirSI"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92c4580974426287f57eb8f72fd24f0a2cfac274"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fec47ce9b7d21f6459b8628fb18d26cde0c7b163"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("ParkirSI"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("ParkirSI"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

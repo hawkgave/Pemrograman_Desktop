@@ -15,3 +15,20 @@ E:\sekolah\Github Repo\Pemrograman_Desktop\#Folder Pertemuan 5\MassRenamer\obj\D
 E:\sekolah\Github Repo\Pemrograman_Desktop\#Folder Pertemuan 5\MassRenamer\obj\Debug\net8.0-windows\MassRenamer.pdb
 E:\sekolah\Github Repo\Pemrograman_Desktop\#Folder Pertemuan 5\MassRenamer\obj\Debug\net8.0-windows\MassRenamer.genruntimeconfig.cache
 E:\sekolah\Github Repo\Pemrograman_Desktop\#Folder Pertemuan 5\MassRenamer\obj\Debug\net8.0-windows\ref\MassRenamer.dll
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 5\MassRenamer\MassRenamer\bin\Debug\net8.0-windows\MassRenamer.exe
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 5\MassRenamer\MassRenamer\bin\Debug\net8.0-windows\MassRenamer.deps.json
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 5\MassRenamer\MassRenamer\bin\Debug\net8.0-windows\MassRenamer.runtimeconfig.json
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 5\MassRenamer\MassRenamer\bin\Debug\net8.0-windows\MassRenamer.dll
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 5\MassRenamer\MassRenamer\bin\Debug\net8.0-windows\MassRenamer.pdb
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 5\MassRenamer\MassRenamer\obj\Debug\net8.0-windows\MassRenamer.Form1.resources
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 5\MassRenamer\MassRenamer\obj\Debug\net8.0-windows\MassRenamer.vbproj.GenerateResource.cache
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 5\MassRenamer\MassRenamer\obj\Debug\net8.0-windows\MassRenamer.GeneratedMSBuildEditorConfig.editorconfig
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 5\MassRenamer\MassRenamer\obj\Debug\net8.0-windows\MassRenamer.AssemblyInfoInputs.cache
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 5\MassRenamer\MassRenamer\obj\Debug\net8.0-windows\MassRenamer.AssemblyInfo.vb
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 5\MassRenamer\MassRenamer\obj\Debug\net8.0-windows\MassRenamer.vbproj.CoreCompileInputs.cache
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 5\MassRenamer\MassRenamer\obj\Debug\net8.0-windows\MassRenamer.sourcelink.json
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 5\MassRenamer\MassRenamer\obj\Debug\net8.0-windows\MassRenamer.dll
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 5\MassRenamer\MassRenamer\obj\Debug\net8.0-windows\refint\MassRenamer.dll
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 5\MassRenamer\MassRenamer\obj\Debug\net8.0-windows\MassRenamer.pdb
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 5\MassRenamer\MassRenamer\obj\Debug\net8.0-windows\MassRenamer.genruntimeconfig.cache
+C:\kuliah kuliah\SEMESTER 6\untuk repo uts\Pemrograman_Desktop\#Folder Pertemuan 5\MassRenamer\MassRenamer\obj\Debug\net8.0-windows\ref\MassRenamer.dll
