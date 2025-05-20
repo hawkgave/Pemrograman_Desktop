@@ -1,0 +1,49 @@
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.exe
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.deps.json
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.runtimeconfig.json
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.pdb
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.Form1.resources
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.vbproj.GenerateResource.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.GeneratedMSBuildEditorConfig.editorconfig
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.AssemblyInfoInputs.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.AssemblyInfo.vb
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.vbproj.CoreCompileInputs.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Pakman\Pakman\obj\Debug\net8.0-windows\refint\Pakman.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.pdb
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.genruntimeconfig.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Pakman\Pakman\obj\Debug\net8.0-windows\ref\Pakman.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Ave\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.exe
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Ave\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.deps.json
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Ave\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.runtimeconfig.json
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Ave\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Ave\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.pdb
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Ave\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.Form1.resources
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Ave\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.vbproj.GenerateResource.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Ave\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.GeneratedMSBuildEditorConfig.editorconfig
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Ave\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.AssemblyInfoInputs.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Ave\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.AssemblyInfo.vb
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Ave\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.vbproj.CoreCompileInputs.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Ave\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Ave\Pakman\Pakman\obj\Debug\net8.0-windows\refint\Pakman.dll
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Ave\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.pdb
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Ave\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.genruntimeconfig.cache
+D:\lavoi\kuliah\Semester 6\PEMROGRAMAN DESKTOP\Pertemuan 11\Ave\Pakman\Pakman\obj\Debug\net8.0-windows\ref\Pakman.dll
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Folder Pertemuan 13\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.exe
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Folder Pertemuan 13\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.deps.json
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Folder Pertemuan 13\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.runtimeconfig.json
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Folder Pertemuan 13\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.dll
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Folder Pertemuan 13\Pakman\Pakman\bin\Debug\net8.0-windows\Pakman.pdb
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Folder Pertemuan 13\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.Form1.resources
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Folder Pertemuan 13\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.vbproj.GenerateResource.cache
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Folder Pertemuan 13\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.GeneratedMSBuildEditorConfig.editorconfig
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Folder Pertemuan 13\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.AssemblyInfoInputs.cache
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Folder Pertemuan 13\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.AssemblyInfo.vb
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Folder Pertemuan 13\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.vbproj.CoreCompileInputs.cache
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Folder Pertemuan 13\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.sourcelink.json
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Folder Pertemuan 13\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.dll
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Folder Pertemuan 13\Pakman\Pakman\obj\Debug\net8.0-windows\refint\Pakman.dll
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Folder Pertemuan 13\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.pdb
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Folder Pertemuan 13\Pakman\Pakman\obj\Debug\net8.0-windows\Pakman.genruntimeconfig.cache
+C:\kuliah kuliah\SEMESTER 6\Prog. Desktop\#Folder Pertemuan 13\Pakman\Pakman\obj\Debug\net8.0-windows\ref\Pakman.dll
